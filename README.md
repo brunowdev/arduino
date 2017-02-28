@@ -3,7 +3,8 @@
 Este repositório contém dicas e exemplos do Arduino.
 
 ## Tópicos
-TODO
+[Programação paralela (Arduino-Compatible Multi-Threading Library)](https://github.com/jlamothe/mthread)
+
 ## Dicas Isoladas
 TODO
 ## Sites e blogs
